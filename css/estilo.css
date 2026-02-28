@@ -61,7 +61,7 @@ a {
 
 .main {
   display: grid;
-  height: 100vh;
+  height: 150vh;
   grid-template-columns: repeat(4, 200px);
   grid-template-rows: repeat(3, 296px);
   justify-content: center;
@@ -137,3 +137,4 @@ img:hover{
     text-align: center;
 
 }
+
